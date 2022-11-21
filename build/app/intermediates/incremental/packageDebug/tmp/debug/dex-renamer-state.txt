@@ -1,0 +1,4 @@
+#Sun Nov 20 20:50:50 BRT 2022
+base.0=/home/riikudou/Área de Trabalho/pratica/app_working/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
